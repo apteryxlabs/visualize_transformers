@@ -1,0 +1,5 @@
+# Newline separated package dependencies.
+tqdm
+transformers
+tokenizers
+torch
